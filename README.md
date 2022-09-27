@@ -16,3 +16,6 @@ Take your time to plan out some wireframes and think of how you want to style yo
 
 There is no standard way to build up a Portfolio, but we'd *highly* recommend having components for a Nav bar to get around the site, an About Me, which may or may not be your landing page, a component for your Resume, a Contact page, one to hold your Projects in, and a component for each project (You can add more as you build more of course!)
 
+We want you to take your time on this and not rush something so important. Having this "complete" will not be required as a deliverable for homework, we just want to see the initial set up, plus your prep and wireframes. 
+
+A professional, beautiful, and deployed Portfolio is going to be required to complete Outcomes at the end of the course
