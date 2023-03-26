@@ -10,16 +10,23 @@ import Contact from './components/Contact'
 import Experience from './components/Experience'
 import Projects from './components/Projects'
 import Resume from './components/Resume'
+import Nav from './components/Nav'
 
 function App() {
+
+
+
+
+
+
   return (
     <div className="App">
+      <Header />
+      <Nav />
       
       <Routes>
             
             <Route path="/" element={<Home/>}/>
-            <Route path="/Header" element={<Header/>}/>
-            <Route path="/Footer" element={<Footer/>} />
             <Route path="/About" element={<About/>} />
             <Route path='/Contact' element={<Contact/>} />
             <Route path='/Experience' element={<Experience/>} />
@@ -27,7 +34,7 @@ function App() {
             <Route path='/Resume' element={<Resume/>} />
             
       </Routes>
-
+    <Footer />
     </div>
   );
 }

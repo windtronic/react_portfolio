@@ -1,5 +1,9 @@
-const Home = (props) =>{
-    return <h2> Welcome! {props.homePage}</h2>
+const Home = () =>{
+    return (
+    
+    <h2> Welcome! </h2>
+    )
     }
     
     export default Home
+    
