@@ -3,14 +3,13 @@ import { useEffect, useState } from "react";
 import './App.css';
 import Header from './components/Header'
 import React from "react"
-import { Route, Routes } from 'react-router-dom'
-import Home from './Home'
-import Footer from './Footer'
-import About from './About'
-import Contact from './Contact'
-import Experience from './Experience'
-import Projects from './Projects'
-import Resume from './Resume'
+import Home from './components/Home'
+import Footer from './components/Footer'
+import About from './components/About'
+import Contact from './components/Contact'
+import Experience from './components/Experience'
+import Projects from './components/Projects'
+import Resume from './components/Resume'
 
 function App() {
   return (
