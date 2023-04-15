@@ -1,5 +1,4 @@
-import React from 'react'
-export default function About (props) {
+export default function About () {
 
     return (
         <><div className="about-page">
@@ -18,3 +17,22 @@ export default function About (props) {
     )
 } 
 
+
+    // <div className="about-page">
+    //     <div className="page-heading">
+    //         <h1>About Me</h1>
+    //         <h3>As a software engineer with a background in electrical engineering focused on wind 
+    //             turbine technology, and experience as a veteran of the United States Army, 
+    //             I have developed a strong foundation in complex systems and a creative approach 
+    //             to problem-solving. I bring a collaborative and detail-oriented mindset to teamwork 
+    //             and leadership roles. At General Assembly, I have honed my skills through diverse projects 
+    //             in web development and software engineering, consistently delivering quality work within 
+    //             tight deadlines.</h3>
+
+    //         <h3>I am confident that my unique blend of technical skills, 
+    //             creative problem-solving ability, and leadership qualities 
+    //             would make me a valuable asset to any team. I am eager to continue 
+    //             my professional growth and to bring my skills and experience to bear 
+    //             on new challenges and opportunities.</h3>
+    // </div>
+    // </div>
