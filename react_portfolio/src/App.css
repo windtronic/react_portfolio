@@ -67,12 +67,4 @@
 
 /* Resume page styling  */
 
-iframe {
-  padding: 0;
-  margin: 0;
-}
-
-div, iframe {
-  box-sizing: border-box;
-}
 
