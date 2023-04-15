@@ -6,18 +6,18 @@ export default function About() {
       <div className="page-heading">
        
       </div>
-      <div className="card">
+     
         <h3>
           Hello there! My name is Toni and I have a passion for creating things
           that live on the internet. From web development to software
           engineering, I am constantly exploring new trends and techniques to
           enhance my skills. As a software engineering student, I have gained
-          experience in various programming languages, such as HTML5, CSS,
-          JavaScript, React.js, Node.js, JQuery, Sequel, and Python 3.11.
+          experience in various programming languages, such as ES6 Javascript,
+           HTML5, CSS, React.js, Node.js/Express, JQuery, and Python.
         </h3>
-      </div>
+   
 
-      <div className="card">
+     
         <h3>
           In addition to my software engineering background, I also have a
           strong foundation in complex systems and creative problem-solving,
@@ -28,18 +28,18 @@ export default function About() {
           continuous learning and constantly seeking opportunities to expand my
           knowledge and skills.
         </h3>
-      </div>
+  
 
-      <div className="card">
+     
         <h3>
           With my unique blend of technical expertise, problem-solving
           abilities, and leadership qualities, I believe that I can be a
           valuable asset to any team. I am eager to continue my professional
           growth and take on new challenges and opportunities.
         </h3>
-      </div>
+    
 
-      <div className="card">
+     
         <h3>
           In my free time, I enjoy playing guitar and writing new songs. I also
           love fire performing (when it's warm enough!), dancing, exploring
@@ -47,7 +47,7 @@ export default function About() {
           trying new foods.
         </h3>
       </div>
-    </div>
+   
   );
 }
 
