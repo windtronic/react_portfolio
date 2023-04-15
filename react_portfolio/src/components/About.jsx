@@ -1,38 +1,59 @@
-export default function About () {
-
-    return (
-        <><div className="about-page">
-            <div className="page-heading">
-                <h1>About Me</h1>
-            </div>
-            <p> Hello! My name is Toni and I enjoy creating things that will be seen on the internet. 
-            I'm passionate about all things related to technology, and I'm constantly exploring new trends and techniques in software development.
-            As a software engineering student, I've gained experience in a variety of programming languages
-            including [HTML5, CSS, JavaScript, React.js, Node.js, JQuery, Sequel, Python 3.11].
-            </p>
-            <p> I'm a strong believer in the power of collaboration, and I enjoy working with others to solve complex problems.
-             I'm also committed to continuous learning, and I'm always looking for opportunities to expand my knowledge and skills.</p>
-     
-        </div><h2> About </h2></>
-    )
-} 
 
 
-    // <div className="about-page">
-    //     <div className="page-heading">
-    //         <h1>About Me</h1>
-    //         <h3>As a software engineer with a background in electrical engineering focused on wind 
-    //             turbine technology, and experience as a veteran of the United States Army, 
-    //             I have developed a strong foundation in complex systems and a creative approach 
-    //             to problem-solving. I bring a collaborative and detail-oriented mindset to teamwork 
-    //             and leadership roles. At General Assembly, I have honed my skills through diverse projects 
-    //             in web development and software engineering, consistently delivering quality work within 
-    //             tight deadlines.</h3>
+export default function About() {
+  return (
+    <div className="about-page">
+      <div className="page-heading">
+       
+      </div>
+      <div className="card">
+        <h3>
+          Hello there! My name is Toni and I have a passion for creating things
+          that live on the internet. From web development to software
+          engineering, I am constantly exploring new trends and techniques to
+          enhance my skills. As a software engineering student, I have gained
+          experience in various programming languages, such as HTML5, CSS,
+          JavaScript, React.js, Node.js, JQuery, Sequel, and Python 3.11.
+        </h3>
+      </div>
 
-    //         <h3>I am confident that my unique blend of technical skills, 
-    //             creative problem-solving ability, and leadership qualities 
-    //             would make me a valuable asset to any team. I am eager to continue 
-    //             my professional growth and to bring my skills and experience to bear 
-    //             on new challenges and opportunities.</h3>
-    // </div>
-    // </div>
+      <div className="card">
+        <h3>
+          In addition to my software engineering background, I also have a
+          strong foundation in complex systems and creative problem-solving,
+          thanks to my background in electrical engineering focused on wind
+          turbine technology, and experience as a veteran of the United States
+          Army. I strongly believe in the power of collaboration and enjoy
+          working with others to tackle complex issues. I am committed to
+          continuous learning and constantly seeking opportunities to expand my
+          knowledge and skills.
+        </h3>
+      </div>
+
+      <div className="card">
+        <h3>
+          With my unique blend of technical expertise, problem-solving
+          abilities, and leadership qualities, I believe that I can be a
+          valuable asset to any team. I am eager to continue my professional
+          growth and take on new challenges and opportunities.
+        </h3>
+      </div>
+
+      <div className="card">
+        <h3>
+          In my free time, I enjoy playing guitar and writing new songs. I also
+          love fire performing (when it's warm enough!), dancing, exploring
+          musical arts, hanging out with family and friends, traveling, and
+          trying new foods.
+        </h3>
+      </div>
+    </div>
+  );
+}
+
+
+
+            
+
+            
+ 

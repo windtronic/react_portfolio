@@ -3,13 +3,24 @@ import { Link } from 'react-router-dom'
 export default function Header () {
 
     return (
-        <div className='Header'>
+        <div className='header-container'>
           
+          <Link to="/About" className="nav-link">
+                <h1 className="header-text">About Me</h1>
+            </Link>
+
+            <Link to="/Contact" className="nav-link">
+                <h1 className="header-text">Contact</h1>
+            </Link>
+
+            <Link to="/Projects" className="nav-link">
+                <h1 className="header-text">Projects</h1>
+            </Link>
+
+            <Link to="/Resume" className="nav-link">
+                <h1 className="header-text">Resume</h1>
+            </Link>
           
-          <Link to='/About'> <h2>About</h2> </Link>
-          <Link to='/Contact'> <h2>Contact</h2> </Link>
-          <Link to='/Projects'> <h2>Projects</h2> </Link>
-          <Link to='/Resume'> <h2>Resume</h2> </Link>
         </div>
     )
 }
