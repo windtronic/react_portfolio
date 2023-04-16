@@ -15,7 +15,7 @@ export default function About() {
       <h3>
         In addition to my software engineering background, I also have a strong
         foundation in complex systems and creative problem-solving, thanks to my
-        background in electrical engineering focused on wind turbine technology,
+        background in electrical engineering, wind turbine technology,
         and experience as a veteran of the United States Army. I strongly
         believe in the power of collaboration and enjoy working with others to
         tackle complex issues. I am committed to continuous learning and
