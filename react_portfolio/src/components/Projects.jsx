@@ -40,7 +40,7 @@ export default function Projects() {
           <h3>Tick-It</h3>
         </a>
         <p>
-          A group project Tick-iT is a concert search and booking app for the
+          Tick-iT is a group project concert search and booking app for the
           Denver Metropolitan area. This is a <strong>Full-Stack</strong> project developed
           utilizing <strong>Django for Python, PostgreSQL, React.js, DBeaver, and CSS</strong>. My primary
           role on this project was creating the backend and assisting with the
