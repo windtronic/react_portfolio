@@ -80,13 +80,13 @@ export default function Projects() {
           <h3>Go Find Anime</h3>
         </a>
         <p>
-          An application made using Axios, React.js, JavaScript, HTML5, and CSS.
+          An application made using <strong>Axios, React.js, JavaScript, HTML5, and CSS</strong>.
           The purpose of this application is to search different anime of their
           choice, see a brief synopsis, and a link to “myanimelist” to view the
           full information. This project pulls information from various
-          endpoints within the Jikan API. The application features a search bar
-          that permits searches by title. I used various React Hooks, including
-          useState, and useEffect to create this functionality.
+          endpoints within the Jikan <strong> Rest API</strong>. The application features a search bar
+          that permits searches by title. I used various <strong>React Hooks, including
+          useState, and useEffect</strong> to create this functionality.
         </p>
       </div>
     </div>
