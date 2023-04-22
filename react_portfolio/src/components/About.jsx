@@ -8,7 +8,7 @@ export default function About() {
         that live on the internet. From web development to software engineering,
         I am constantly exploring new trends and techniques to enhance my
         skills. As a full stack software engineer, I have gained experience in various
-        programming languages, such as ES6 Javascript, HTML5, CSS, React.js,
+        programming languages and frameworks, such as ES6 Javascript, HTML5, CSS, React.js,
         Node.js/Express, JQuery, and Python.
       </h3>
 
