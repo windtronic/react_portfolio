@@ -53,7 +53,7 @@ export default function Projects() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src={pixiDreamsImg} alt="PixiDreams" width="360" height="160" />
+          <img src={pixiDreamsImg} alt="PixiDreams" width="360" height="180" />
           <h3>PixiDreams</h3>
         </a>
         <p>
