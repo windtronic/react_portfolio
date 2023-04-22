@@ -130,6 +130,7 @@
   border-radius: 15px;
   box-shadow: 10px 10px 5px rgb(26, 26, 26);
   color: white;
+  font-weight: 500;
   text-decoration: none;
   }
   
@@ -145,6 +146,6 @@
   }
   
   .project-card p {
-  margin: 5px 0;
+  margin: 10px 0;
   }
 
