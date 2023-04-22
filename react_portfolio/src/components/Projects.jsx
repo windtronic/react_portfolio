@@ -59,8 +59,8 @@ export default function Projects() {
         <p>
         A group project movie blog that provides news & reviews of the latest animated movies. 
         Our blog also provides opportunities for interactivity where visitors can comment or 
-        like a blog post, and possibly recommend updates for more content. This full-stack PERN 
-        project developed utilizing <strong>PostgreSQL, Sequelize, Express / Node.js, React.js, and CSS</strong>.
+        like a blog post, and possibly recommend updates for more content. This <strong>Full-Stack PERN 
+        project</strong> developed utilizing <strong>PostgreSQL, Sequelize, Express / Node.js, React.js, and CSS</strong>.
         My primary role on this project was creating the backend and assisting with front end components.
 
         </p>
