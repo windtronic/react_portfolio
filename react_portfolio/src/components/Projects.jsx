@@ -42,7 +42,7 @@ export default function Projects() {
         <p>
           A group project Tick-iT is a concert search and booking app for the
           Denver Metropolitan area. This is a full-stack project developed
-          utilizing Django, PostgreSQL, React.js, DBeaver, and CSS. My primary
+          utilizing Django for Python, PostgreSQL, React.js, DBeaver, and CSS. My primary
           role on this project was creating the backend and assisting with the
           front end components.
         </p>
