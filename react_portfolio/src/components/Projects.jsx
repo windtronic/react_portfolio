@@ -21,12 +21,12 @@ export default function Projects() {
           <h3>My Gardening App</h3>
         </a>
         <p>
-          A full-stack web application that I developed using Django in Python,
-          DBeaver, React.js, CSS, and various other libraries including
-          React-Big-Calendar, Material-UI, React Spring, and React Gesture. The
+          A <strong>Full-Stack</strong> web application that I developed using <strong>Django in Python,
+          DBeaver, React.js, CSS</strong>, and various other libraries including
+          <strong> React-Big-Calendar, Material-UI, React Spring, and React Gesture</strong>. The
           purpose of this application is to help gardening enthusiasts plan and
           track their gardens. I was responsible for designing and implementing the entire application.
-          This included creating the user interface and using Reactjs and its
+          This included creating the user interface and using <strong>Reactjs</strong> and its
           various libraries to create a smooth and intuitive user experience.
         </p>
       </div>
@@ -41,8 +41,8 @@ export default function Projects() {
         </a>
         <p>
           A group project Tick-iT is a concert search and booking app for the
-          Denver Metropolitan area. This is a full-stack project developed
-          utilizing Django for Python, PostgreSQL, React.js, DBeaver, and CSS. My primary
+          Denver Metropolitan area. This is a <strong>Full-Stack</strong> project developed
+          utilizing <strong>Django for Python, PostgreSQL, React.js, DBeaver, and CSS</strong>. My primary
           role on this project was creating the backend and assisting with the
           front end components.
         </p>
@@ -57,13 +57,12 @@ export default function Projects() {
           <h3>PixiDreams</h3>
         </a>
         <p>
-          A group project movie blog that provides news & reviews of the latest
-          animated movies. Our blog also provides opportunities for
-          interactivity where visitors can comment or like a blog post, and
-          possibly recommend updates for more content. This full-stack PERN
-          project developed utilizing PostgreSQL, Sequelize, Express / Node.js,
-          React.js, and CSS. My primary role on this project was creating the
-          backend and assisting with front end components.
+        A group project movie blog that provides news & reviews of the latest animated movies. 
+        Our blog also provides opportunities for interactivity where visitors can comment or 
+        like a blog post, and possibly recommend updates for more content. This full-stack PERN 
+        project developed utilizing <strong>PostgreSQL, Sequelize, Express / Node.js, React.js, and CSS</strong>.
+        My primary role on this project was creating the backend and assisting with front end components.
+
         </p>
       </div>
       <div className="project-card">
