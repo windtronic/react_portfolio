@@ -1,8 +1,18 @@
+@viewport {
+  width: device-width;
+  zoom: 1.0;
+}
+
+
+
+
 .App {
   background-color: #607d92;
   font-style: italic;
   text-align: center;
   font-family: "Boogaloo";
+  
+
   
 }
 
