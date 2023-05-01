@@ -3,9 +3,9 @@
   initial-scale: 1.0;
 }
 
-div {
+/* div {
   background-size: cover;
-}
+} */
 
 .App {
   background-color: #607d92;
@@ -25,12 +25,12 @@ div {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0.5em;
+  padding: 0.7em;
   background-color: rgb(79, 147, 190);
 }
 
 .nav-link {
-  margin: 0 1em;
+  margin:  1em;
   text-decoration: none;
   color: white;
   font-size: 1.2rem;
@@ -68,29 +68,7 @@ div {
 
 /* Resume page styling  */
 
-.resume-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  max-width: 100%;
-}
 
-.resume-iframe {
-  width: 100%;
-  height: 100%;
-  border: none;
-}
-
-
-@media only screen and (min-width: 768px) {
-  .resume-container {
-    padding: 0;
-  }
-  .resume-iframe {
-    min-width: 61%;
-  }
-}
 
 /* Contact Page Styling  */
 
@@ -189,3 +167,9 @@ margin: 0 auto;
 }
 }
 
+/* CSS rules for screens smaller than 768px */
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+}
