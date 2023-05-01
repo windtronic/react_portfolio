@@ -158,6 +158,32 @@ text-align: justify;
 }
 
 @media only screen and (min-width: 768px) {
+.nav-link {
+  margin:  .5em;
+  text-decoration: none;
+  color: white;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  transition: color 0.2s ease-in-out;
+  padding: 0.5em .5em;
+  border: 2px solid white;
+  border-radius: 20px;
+}
+}
+
+
+@media only screen and (min-width: 768px) {
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.7em;
+  background-color: rgb(79, 147, 190);
+}
+}
+
+@media only screen and (min-width: 768px) {
 .project-container {
 display: flex;
 flex-wrap: wrap;
