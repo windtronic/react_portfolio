@@ -3,6 +3,7 @@
   font-style: italic;
   text-align: center;
   font-family: "Boogaloo";
+  
 }
 
 .home-page {
@@ -17,20 +18,20 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 15px;
+  padding: 1em;
   background-color: rgb(79, 147, 190);
-  width: 100vw;
+  
 }
 
 .nav-link {
-  margin: 0 30px;
+  margin: 0 1em;
   text-decoration: none;
   color: white;
-  font-size: 10px;
+  font-size: 1.2rem;
   font-weight: bold;
   text-transform: uppercase;
   transition: color 0.2s ease-in-out;
-  padding: 8px 12px;
+  padding: 0.5em 1em;
   border: 2px solid white;
   border-radius: 20px;
 }
@@ -49,8 +50,7 @@
   justify-content: center;
   align-items: center;
   margin: 0px;
-  height: 100vh;
-  width: 100vw;
+  padding: 2em;
   text-align: center;
   
 }
@@ -58,9 +58,9 @@
 
 
 .about-page h3 {
-  font-size: 22px;
+  font-size: 1.5rem;
   line-height: 1.3;
-  margin: 20px;
+  margin: 1em;
   text-shadow: 1px 1px 3px rgb(127, 106, 144);
 }
 
@@ -73,11 +73,11 @@
 /* Contact Page Styling  */
 
 .contact-container {
-  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding: 2em;
 }
 
 .contact-card {
@@ -89,8 +89,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 40%;
-  padding: 20px;
+  width: 80%;
+  padding: 2em;
 }
 
 .contact-card button {
@@ -98,8 +98,8 @@
   background-color: white;
   color: black;
   font-weight: bold;
-  font-size: 30px;
-  width: 100%;
+  font-size: 2rem;
+  width: 80%;
   height: 100%;
   cursor: pointer;
   transition: box-shadow 0.2s ease-in-out;
@@ -123,7 +123,7 @@
 } */
 
 .project-card {
-  width: 45%;
+  width: 100%;
   height: auto;
   margin: 20px;
   display: flex;
