@@ -90,6 +90,8 @@ div {
   width: 100%;
   height: 600px;
   border: none;
+  align-items: center;
+  justify-content: center;
 }
 
 @media only screen and (max-width: 768px) {
