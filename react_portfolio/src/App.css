@@ -194,7 +194,7 @@ text-align: justify;
 }
 
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 600px) {
 .header-container {
   display: flex;
   justify-content: space-between;
@@ -204,7 +204,7 @@ text-align: justify;
 }
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 600px) {
 .project-container {
 display: flex;
 flex-wrap: wrap;
@@ -215,7 +215,7 @@ margin: 0 auto;
 }
 
 /* CSS rules for screens smaller than 768px */
-@media (max-width: 768px) {
+@media (max-width: 600px) {
   body {
     font-size: 14px;
   }
