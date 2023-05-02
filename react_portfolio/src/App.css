@@ -19,7 +19,7 @@ body {
   width: 100vw;
   min-width: 300px; 
 }
-@media (max-width: 768px) {
+@media (max-width: 900px) {
   .App {
     font-size: 14px;
     min-width: 0;
@@ -38,10 +38,11 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0.7em;
+  padding: 0.5em 1em;
   background-color: rgb(79, 147, 190);
-  flex-wrap: wrap;
+  white-space: nowrap;
 }
+
 
 .nav-link {
   margin:  .5em;
@@ -56,9 +57,9 @@ body {
   border-radius: 20px;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 900px) {
   .nav-link {
-    font-size: .5rem;
+    font-size: .5em;
   }
 }
 
@@ -178,7 +179,7 @@ font-size: 18px;
 text-align: justify;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 900px) {
 .nav-link {
   margin:  .5em;
   text-decoration: none;
@@ -194,7 +195,7 @@ text-align: justify;
 }
 
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 900px) {
 .header-container {
   display: flex;
   justify-content: space-between;
@@ -204,7 +205,7 @@ text-align: justify;
 }
 }
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 900px) {
 .project-container {
 display: flex;
 flex-wrap: wrap;
@@ -215,7 +216,7 @@ margin: 0 auto;
 }
 
 /* CSS rules for screens smaller than 768px */
-@media (max-width: 600px) {
+@media (max-width: 1200px) {
   body {
     font-size: 14px;
   }
