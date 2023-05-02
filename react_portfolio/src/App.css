@@ -3,9 +3,13 @@
   initial-scale: 1.0;
 }
 
-/* div {
-  background-size: cover;
-} */
+body {
+  overflow-x: auto;
+  margin: 0;
+  padding: 0;
+}
+
+
 
 .App {
   background-color: #607d92;
@@ -13,6 +17,15 @@
   text-align: center;
   font-family: "Boogaloo";
   width: 100vw;
+  min-width: 300px; 
+}
+@media (max-width: 768px) {
+  .App {
+    font-size: 14px;
+    min-width: 0;
+    max-width: 100vw;
+    overflow-x: scroll;
+  }
 }
 
 .home-page {
@@ -27,6 +40,7 @@
   align-items: center;
   padding: 0.7em;
   background-color: rgb(79, 147, 190);
+  flex-wrap: wrap;
 }
 
 .nav-link {
@@ -42,10 +56,17 @@
   border-radius: 20px;
 }
 
+@media only screen and (max-width: 600px) {
+  .nav-link {
+    font-size: .5rem;
+  }
+}
+
 .nav-link:hover {
   color: darkgreen;
   background-color: white;
 }
+
 
 /* Styling for About Me Component */
 
@@ -121,7 +142,7 @@
 }
 
 .project-card {
- width: 100%;
+width: 100%;
 height: auto;
 margin: 20px;
 display: flex;
