@@ -4,12 +4,11 @@ export default function About() {
       <div className="page-heading"></div>
 
       <h3>
-        Hello there! My name is Toni and I have a passion for creating things
-        that live on the internet. From web development to software engineering,
+        Hello there! My name is Toni and I have a passion for creation and learning.
+        From web development to software engineering,
         I am constantly exploring new trends and techniques to enhance my
         skills. As a full stack software engineer, I have gained experience in various
-        programming languages and frameworks, such as ES6 Javascript, HTML5, CSS, React.js,
-        Node.js/Express, JQuery, and Python.
+        programming languages, frameworks, and libraries.
       </h3>
 
       <h3>
@@ -20,13 +19,6 @@ export default function About() {
         believe in the power of collaboration and enjoy working with others to
         tackle complex issues. I am committed to continuous learning and
         constantly seeking opportunities to expand my knowledge and skills.
-      </h3>
-
-      <h3>
-        With my unique blend of technical expertise, problem-solving abilities,
-        and leadership qualities, I believe that I can be a valuable asset to
-        any team. I am eager to continue my professional growth and take on new
-        challenges and opportunities.
       </h3>
 
       <h3>
