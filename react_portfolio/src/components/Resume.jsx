@@ -9,12 +9,11 @@ export default function Resume() {
       }}
     >
       <div style={{ minWidth: "61%", margin: "0 auto" }}>
-        <iframe
-          src="https://docs.google.com/document/d/1sY7DsSUHBWMSdkB1fbFxfvQj4SYfRpZnRVMcykSR48E/pub?embedded=true"
+        <iframe src="https://docs.google.com/document/d/e/2PACX-1vS4zZ12KPU-QodpSZ2TPvomd4mjH7Wn-a-CZ0Am4085gbPdx9gAipQ1Xw-lepHzCT0AB8N20UmBNmH0/pub?embedded=true">
           width="100%"
           height="600"
           frameborder="0"
-        ></iframe>
+        </iframe>
       </div>
     </div>
   );
